@@ -1,4 +1,7 @@
 # DMalloc
+
+Citation :: http://www.inf.udec.cl/~leo/Malloc_tutorial.pdf
+
 A custom implementation of dynamic memory management malloc/free.
 
 The standard malloc/free are _malloc/_free with this implementation. Along with this, _malloc behaves more like _calloc since it takes two arguments (size of each element and number of elements).
